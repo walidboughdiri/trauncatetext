@@ -1,0 +1,2 @@
+# trauncatetext
+cut a text
